@@ -1,0 +1,9 @@
+dependencies:
+- name: spinnaker
+  repository: file://../spinnaker
+  version: 0.1.0
+- name: loghouse
+  repository: file://../loghouse
+  version: 0.0.1
+digest: sha256:f209be1ef1f6d628ce93d70dd2cfab004fa8d75e7d7c0a191a4db7d3b280e0eb
+generated: 2017-11-12T16:06:55.129354341+04:00

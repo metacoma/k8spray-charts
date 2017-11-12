@@ -1,0 +1,12 @@
+dependencies:
+- name: redis
+  repository: file://../redis
+  version: 0.1.0
+- name: minio
+  repository: file://../minio
+  version: 0.1.0
+- name: jenkins
+  repository: file://../jenkins
+  version: 0.1.0
+digest: sha256:6f607f434bc8794b4ef7ecfeb1397b0621aa69b76dabee909df8f7908be0dda3
+generated: 2017-10-25T09:57:19.817961896+04:00
